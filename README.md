@@ -24,3 +24,7 @@ Outcome :
       
 Conclusion:
 This project demonstrates how automation in ServiceNow can significantly improve support operations by reducing errors and saving time. It highlights the importance of structured user roles, organized groups, and workflow automation in modern IT service management.
+
+Project Demonstration link:
+
+https://drive.google.com/file/d/1qVvG371hznjikSobbjmMRO42HHi-aVcY/view?usp=drivesdk
